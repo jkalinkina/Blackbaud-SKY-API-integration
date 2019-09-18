@@ -8,6 +8,7 @@ import requests.auth
 import urllib
 CLIENT_ID = 'Application ID'
 CLIENT_SECRET = 'Application Secret'
+
 REDIRECT_URI = "http://localhost:65010/sky_callback"
 
 def base_headers():
